@@ -1,0 +1,2 @@
+base_url,url,headless,max_depth,num_urls,crawl_matching_query,relevance_threshold,chunk_size,overlap
+https://example.com,https://example.com,True,2,5,"",0.75,2000,200

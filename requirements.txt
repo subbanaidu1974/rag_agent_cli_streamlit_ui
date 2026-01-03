@@ -1,0 +1,12 @@
+streamlit
+playwright
+langchain
+pandas
+requests
+scikit-learn
+sentence-transformers
+chromadb
+pdfplumber
+python-docx
+python-pptx
+pypdf
